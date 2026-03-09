@@ -1,0 +1,594 @@
+a {
+    color: #fff;
+    text-decoration: none
+}
+.Rectangle-1 {
+  width: 100%;
+  height: 58px;
+  margin: 0 0 9px;
+  padding: 16.9px 107px 17px 225px;
+  background-color: #181818;
+  text-align: center;
+}
+.Diwali-Sale-Free-Silver-Coin-Above-999 {
+  width: 345px;
+  height: 22px;
+  color: #fff;
+}
+.Diwali-Sale-Free-Silver-Coin-Above-999 h4 {
+    text-align: center;
+    height: 2px;
+}
+.ticker {
+    display: flex;
+    flex-wrap: wrap;
+    height: 50px;
+    margin: 0 auto
+}
+.news {
+    background: #321f15;;
+    padding: 0 2%
+}
+.title {
+    width: 20%;
+    text-align: center;
+    color: #fff;
+    position: relative
+}
+.nav-item h6 {
+    color: #321f15;
+    padding-left: 5px;
+}
+.navbar-brand h6 {
+    color: #321f15;
+    padding-left: 20px;
+}
+.logo img {
+    height: 60px;
+    width: 60px;
+
+}
+.title:after {
+    position: absolute;
+    content: "";
+    right: -22%;
+    border-left: 20px solid #c81c1c;
+    border-top: 28px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 21px solid transparent;
+    top: 0px
+}
+.twoside {
+    text-align: left;
+}
+.jaapmala {
+    padding-top: 20px;
+
+}
+
+.title h5 {
+    font-size: 18px;
+    margin: 8% 0
+}
+    .product-section {
+      padding: 60px 0;
+    }
+
+    .product-box {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-radius: 20px;
+      padding: 30px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      transition: transform 0.3s ease;
+    }
+
+    .product-box:hover {
+      transform: translateY(-5px);
+    }
+
+    .product-content {
+      flex: 1;
+      padding: 20px;
+    }
+
+    .product-content h3 {
+      font-weight: 700;
+      color: #4a1a00;
+      
+    }
+
+    .product-content p {
+      color: #4a1a00;
+      font-size: 10px;
+      margin-bottom: 20px;
+    }
+
+    .btn-custom {
+      background-color: #a62600;
+      color: #fff;
+      height: 30px;
+      font-size: 10px;
+      border-radius: 25px;
+      padding: 10px 20px;
+      border: none;
+      transition: all 0.3s;
+    }
+
+    .btn-custom:hover {
+      background-color: #7b1b00;
+    }
+
+    .arch-wrapper {
+      position: relative;
+      text-align: center;
+      flex: 1;
+    }
+     .arch-wrapper img {
+      position: absolute;
+      top: 30%;
+      height: 300px;
+      width: 400px;
+      padding-bottom: 100px;
+      left: 50%;
+      transform: translate(-50%, -30%);
+      max-width: 250px;
+    }
+
+.Best-Sallers {
+  width: 161px;
+  height: 40px;
+  text-align: center;
+}
+.Best-Sallers h2{
+    padding-bottom: 30px;
+}
+
+.news marquee {
+    font-size: 18px;
+    margin-top: 12px
+}
+
+.news-content p {
+    margin-right: 41px;
+    display: inline
+}
+.container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.container-fluid p{
+    color: #fff;
+}
+
+.main-image img{width: 250px;
+    padding-right: 40px;
+}
+.gap-image {
+    padding-left: 30px;
+    margin-right: 80px;
+
+}
+.box2 .h1{
+    text-align: center;
+}
+.col-sm-2 .img img{
+    height: 40vh;
+    width: 30vh;
+
+}
+.productbox {
+    position: relative;
+    
+}
+.productimg{
+    position: absolute;
+    top: 140px;
+    width:174px;
+    background: url(../images/border-bottom.png);
+    background-size: cover;
+    height: 100px;
+}
+.productimg h2{color: #321f15; font-size:14px; text-align: center; padding-top: 18px;}
+.productimg P{color: #bd150f; font-size:16px; text-align: center; padding-top: 0px;}
+.productimg img{ width: 174px;}
+.img-fluid {
+    margin-top: 60px;
+}
+.temple1 {
+    position: relative;
+    padding-top: 50px;
+   
+   
+}
+.testimonal {
+    position: absolute;
+    top: 140px;
+    width:174px;
+    background-size: cover;
+    height: 100px;
+}
+
+.testimonal h2{color: #321f15; font-size:16px; text-align: center; padding-top: 100px;  }
+.testimonal h2 {
+    padding-top: 150px;
+    font-size: 11px;
+}
+.bddr1 img {
+    height: 10vh;
+    width: 100%;
+}
+.Meaningful-Brass-Decor {
+  width: 335px;
+  height: 40px;
+  text-align: center;
+}
+.bddr2 img {
+    height: 10vh;
+    width: 100%;
+    margin-top: 100px;
+}
+.Shop-By-Intention {
+  width: 248px;
+  height: 40px;
+  padding-top: 20px;
+  text-align: center;
+}
+.Shop-By-Intention h2 {
+    padding-top: 40px;
+  
+}
+.ring1 {
+    position: relative;
+    padding-top: 50px;
+   
+}
+.wealth {
+    position: absolute;
+    top: 140px;
+    width:174px;
+    background-size: cover;
+    height: 70px;
+}
+
+.wealth h2{color: #321f15; font-size:16px; text-align: center; padding-top: 100px;}
+.wealth h2 {
+    padding-top: 100px;
+    font-size: 16px;
+}
+.col-sm-2 .img img {
+    height: auto;
+    width: 30vh;
+}
+.ring1 {
+    position: relative;
+    padding-top: 60px;
+}
+.combo-section {
+      text-align: center;
+      padding: 60px 0;
+      border-color: #c62828;
+    }
+
+    .combo-section h2 {
+      font-weight: 600;
+      margin-bottom: 40px;
+      color: #3a2c1a;
+    }
+
+    .product-card {
+      
+      border: none;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+      overflow: hidden;
+      transition: transform 0.3s;
+    }
+
+    .product-card:hover {
+      transform: translateY(-5px);
+    }
+
+    .product-img {
+      border-radius: 0 0 50% 50%;
+      position: relative;
+      padding: 20px;
+    }
+
+    .product-img img {
+      width: 100%;
+      border-radius: 10px;
+    }
+
+    .product-info {
+      padding: 15px;
+      text-align: center;
+      background: #fff4e6;
+    }
+
+    .product-info h5 {
+      font-weight: 600;
+      font-size: 15px;
+      margin-bottom: 10px;
+    }
+
+    .rating i {
+      color: #f8b400;
+    }
+
+    .price {
+      font-weight: 600;
+      font-size: 18px;
+      color: #000;
+    }
+
+    .old-price {
+      text-decoration: line-through;
+      color: #999;
+      font-size: 14px;
+      margin-right: 6px;
+    }
+
+    .btn-cart {
+      color: #fff;
+      border-radius: 17px;
+      padding: 6px 18px;
+      font-size: 14px;
+      
+    }
+    .rating {
+        background-color: #fff;
+    }
+
+.bddr3 img {
+    height: v3h;
+    width: 100%;
+    margin-top: 100px;
+}
+.Products-Image-Gallery {
+  width: 346px;
+  height: 40px;
+  text-align: center;
+  
+
+}
+.Products-Image-Gallery h3 {
+    margin-top: 50px;
+}
+.bddr4 img {
+    height: v3h;
+    width: 100%;
+     margin-top: 50px;
+}
+.Crystal-Bracelets {
+    width: 346px;
+  height: 40px;
+  text-align: center;
+}
+.Crystal-Bracelets h4 {
+     margin-top: 50px;
+}
+.maskgroup {
+    position: relative;  
+}
+.maskgroup2{
+    position: absolute;
+    top: 140px;
+    width:174px;
+    background: url(../images/border-bottom.png);
+    background-size: cover;
+    height: 100px;
+}
+.maskgroup2 h2{color: #321f15; font-size:14px; text-align: center; padding-top: 18px; font-size: 10px;}
+.maskgroup2 img{ width: 174px;}
+.bddr5 img {
+    height: 5vh;
+    width: 100%;
+     margin-top: 50px;
+}
+.Why-choose-Sudiksha-Spiritual- {
+    width: 346px;
+  height: 40px;
+  text-align: center;
+}
+.Why-choose-Sudiksha-Spiritual- h2 {
+     margin-top: 50px;
+     font-size: 30px;
+}
+.logo1 {
+    padding-top: 50px;  
+}
+.logo2 {
+    position: absolute;
+    top: 140px;
+    width:174px;
+    background-size: cover;
+    height: 70px;
+}
+.logo2 h2{color: #321f15; font-size:12px; text-align: center; padding-top: 100px;}
+.logo2 h2 {
+    padding-top:50px;
+    font-size: 12px;
+    margin-left: 70px;
+}
+.logo2 img .img {
+    height: 300px;
+}
+.bddr6 img {
+    height: 5vh;
+    width: 100%;
+    margin-top: 100px;
+}
+.Crystal-Bracelets h4{
+    padding-bottom: 30px;
+}
+.group65 img {
+    width: 100px;
+    height: 100px;
+}
+.logo1 img {
+   margin-left: 50px;
+}
+.container5 {
+   width: 60%;
+   margin-left: 190px;
+}
+.our-product {
+    width: 346px;
+  height: 40px;
+  text-align: center;
+}
+.our-product h2 {
+     margin-top: 50px;
+     font-size: 30px;
+    }
+.end img {
+    height: 100%;
+    width: 100%;
+
+}
+.welcome img {
+    height: 40%;
+    width: 80%;
+    }  
+body {
+      background-color: #fff;
+      overflow-x: hidden;
+    }
+
+    .product-card {
+      border: 1px solid #e0e0e0;
+      border-radius: 10px;
+      overflow: hidden;
+      background: #fff;
+      transition: 0.3s ease;
+      margin-top: 25px;
+    }
+
+    .product-card img {
+      width: 100%;
+      height: 220px;
+      object-fit: cover;
+    }
+
+    .product-info {
+      padding: 12px;
+      text-align: center;
+    }
+
+    .product-title {
+      font-size: 15px;
+      font-weight: 600;
+      color: #333;
+      height: 48px;
+      overflow: hidden;
+    }
+
+    .rating {
+      color: #fbc02d;
+      font-size: 14px;
+    }
+
+    .reviews {
+      color: #777;
+      font-size: 12px;
+    }
+
+    .price {
+      font-weight: 700;
+      color: #222;
+      font-size: 16px;
+    }
+
+    .old-price {
+      text-decoration: line-through;
+      color: #999;
+      font-size: 13px;
+      margin-left: 5px;
+    }
+
+    .discount {
+      color: #28a745;
+      font-size: 13px;
+      font-weight: 600;
+      margin-left: 5px;
+    }
+
+    .btn-cart {
+      background: #e53935;
+      color: #fff;
+      border: none;
+      border-radius: 30px;
+      padding: 8px 0;
+      width: 100%;
+      font-weight: 600;
+      margin-top: 8px;
+      transition: 0.3s;
+    }
+
+    .btn-cart:hover {
+      background: #c62828;
+    }
+    .View-More {
+  width: 80px;
+  height: 24px;
+  font-size: 15px;
+  margin-left: 600px;
+  margin-top: 50px;
+  text-align: center;
+  color: #bd150f;
+}
+    .bddr7 img {
+        height: 3vh;
+        width: 100%;
+        margin-top: 80px;
+    }
+    .product-title h2 {
+        font-size: 10px;
+    }
+    footer {
+      background-color: #fdf0c2; /* beige background like your image */
+      color: #333;
+      padding: 50px 0;
+      font-size: 15px;
+      line-height: 1.6;
+    }
+    footer h5 {
+      font-weight: 700;
+      margin-bottom: 20px;
+      font-size: 17px;
+    }
+    footer a {
+      color: #b51e0b; /* red link color */
+      text-decoration: none;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+    footer p {
+      margin-bottom: 8px;
+    }
+    @media (max-width: 768px) {
+      footer {
+        text-align: center;
+      } 
+    }
+    .container99{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 130px;
+    }
+
+
+   
+    
+    
+    
+
+
+
+
+
+
+
